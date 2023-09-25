@@ -7,7 +7,15 @@ Features
 
     File Management: The tool intelligently organizes downloaded PDB files and removes any unnecessary files that might not be relevant to your specific research.
 
+# PDB Downloader Stages:
 
+We aim to preserve essential data while enhancing our dataset creation process. Here are the steps:
+
+1. **Initial Dataset Creation**: Our primary objective is to construct a comprehensive ultimatum dataset that is user-friendly. We intend to provide a readily accessible CSV dataset that anyone can download and utilize. Given its CSV format, Users can modify the data as needed.
+
+2. **Advanced Dataset Customization**: For users with a more in-depth understanding of the PDB structure, they have the option to select and incorporate specific elements into their dataset right from the beginning. Moreover, they can modify the source from which files are fetched to tailor the dataset to their preferences.
+
+3. **Expert-Level Data Control**: At the highest level of expertise, users can leverage our package to override specific code segments, making precise adjustments without the burden of developing an entirely new downloader from scratch each time they wish to manipulate the data. This empowers advanced users to fine-tune their datasets effortlessly.
 # Contributing
 
 If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request on this repository. Your contributions are greatly appreciated!
