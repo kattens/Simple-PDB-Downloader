@@ -1,4 +1,4 @@
-# Simple PDB Downloader and Organizer
+# Simple PDB Organizer and Downloader 
 
 The Simple PDB Downloader is a tool designed to enhance your protein structure research by simplifying the process of downloading PDB (Protein Data Bank) files. This tool allows you to effortlessly retrieve PDB files using a list of protein names while also assisting in the management and organization of your files for a more efficient workflow.
 Features
